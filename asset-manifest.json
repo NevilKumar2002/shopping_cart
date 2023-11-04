@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NevilKumar2002/shopping_cart/static/css/main.29f40674.css",
+    "main.js": "/NevilKumar2002/shopping_cart/static/js/main.7506b174.js",
+    "index.html": "/NevilKumar2002/shopping_cart/index.html",
+    "main.29f40674.css.map": "/NevilKumar2002/shopping_cart/static/css/main.29f40674.css.map",
+    "main.7506b174.js.map": "/NevilKumar2002/shopping_cart/static/js/main.7506b174.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29f40674.css",
+    "static/js/main.7506b174.js"
+  ]
+}
